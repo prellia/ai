@@ -2,6 +2,31 @@
 
 A modern web application built with Next.js, TypeScript, and Tailwind CSS.
 
+## 📋 Project Description
+
+My V0 Project is an interactive voice assistant application that combines cutting-edge web technologies with an engaging user interface. The application features a unique "Cosmic Soul Orb" visualization that responds to user interactions and voice commands.
+
+The project showcases:
+- An interactive voice assistant with speech recognition and synthesis capabilities
+- A dynamic "Cosmic Soul Orb" that visually represents the assistant's state through fluid animations
+- Real-time audio visualization and energy level tracking
+- Responsive UI components built with Radix UI and styled with Tailwind CSS
+- Dark mode support for enhanced user experience
+- Comprehensive form handling and validation
+- Interactive data visualization with charts
+- Smooth animations powered by Framer Motion
+
+The application's core features include:
+- Voice command recognition and processing
+- Real-time audio visualization
+- Dynamic mood and energy level representation
+- Responsive and accessible UI components
+- Modern, fluid animations
+- Comprehensive form handling
+- Data visualization capabilities
+
+Built with a focus on user experience and developer productivity, this project serves as a foundation for building interactive voice-enabled applications with a unique visual identity.
+
 ## 🚀 Features
 
 - ⚡ Next.js 15 for server-side rendering and static site generation
